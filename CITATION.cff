@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Yan"
+    given-names: "Xingguang"
+    alias: "xingguangYan"
+    website: "https://blog.csdn.net/qq_31988139"
+title: "GEE AutoLab: Automated Remote Sensing Research Pipeline for Google Earth Engine"
+version: "1.0.0"
+date-released: 2026-06-13
+url: "https://github.com/xingguangYan/GEE-AutoLab"
+repository-code: "https://github.com/xingguangYan/GEE-AutoLab"
+license: "MIT"
+keywords:
+  - "Google Earth Engine"
+  - "remote sensing"
+  - "automated pipeline"
+  - "geospatial analysis"
+  - "land cover classification"
+  - "change detection"
+  - "time series analysis"
+type: software
